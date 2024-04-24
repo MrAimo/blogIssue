@@ -1,4 +1,7 @@
 {
-      "origins": ["https://blog.aimo.x10.mx:8443","https://blog.aimo.x10.mx"],
+      "origins": [
+          "https://blog.aimo.x10.mx:8443",
+          "https://blog.aimo.x10.mx"
+      ],
       "defaultCommentOrder": "newest"
 }
